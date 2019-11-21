@@ -15,7 +15,7 @@ public class ZooTest {
 		
 		z.ajouterSecteur("Canin");
 		
-		for(int i = 0 ; i<14 ; i++)
+		for(int i = 0 ; i<15 ; i++)
 		{
 			z.nouveauVisiteur();		
 		}	
