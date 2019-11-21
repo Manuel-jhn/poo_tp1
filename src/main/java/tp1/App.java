@@ -3,7 +3,7 @@ package tp1;
 public class App {
 	private Zoo z;
 	
-
+	/* Test */
 	public static void main(String[] args) throws LimiteVisiteurException, AnimalDansMauvaisSecteurException {
 		// TODO Auto-generated method stub
 		Chat chat = new Chat();
