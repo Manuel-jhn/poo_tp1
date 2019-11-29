@@ -1,0 +1,8 @@
+2019-11-29 10:44:25.840 [main] INFO  tp1.App -  Nouvel animal : class tp1.Chat
+2019-11-29 10:44:25.840 [main] TRACE tp1.App -  Nouvel animal : class tp1.Chat
+2019-11-29 10:44:25.840 [main] DEBUG tp1.App -  Nouvel animal : class tp1.Chat
+2019-11-29 10:44:25.840 [main] WARN  tp1.App -  Nouvel animal : class tp1.Chat
+2019-11-29 10:44:25.840 [main] ERROR tp1.App -  Nouvel animal : class tp1.Chat
+2019-11-29 10:44:25.840 [main] FATAL tp1.App -  Nouvel animal : class tp1.Chat
+
+

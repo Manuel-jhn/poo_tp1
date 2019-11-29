@@ -41,10 +41,10 @@ public class Zoo {
 			{
 				i.ajouterAnimal(newAnimal);
 			}
-			else
+			/*else
 			{
 				throw new AnimalDansMauvaisSecteurException();
-			}
+			}*/
 		}
 	}
 	
